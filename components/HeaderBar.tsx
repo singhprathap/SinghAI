@@ -21,7 +21,7 @@ type Props = {
 
 export default function HeaderBar({
   onOpenMenu,
-  title = "Open Fiesta",
+  title = "SINGHAI",
   authorName = "Prathap",
   authorImageSrc = "",
   authorLink = "https://youtube.com/musixon123",
