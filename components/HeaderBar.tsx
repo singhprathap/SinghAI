@@ -22,7 +22,7 @@ type Props = {
 export default function HeaderBar({
   onOpenMenu,
   title = "Open Fiesta",
-  authorName = "Niladri",
+  authorName = "Prathap",
   authorImageSrc = "/image.png",
   authorLink = "https://x.com/byteHumi",
   githubOwner,
